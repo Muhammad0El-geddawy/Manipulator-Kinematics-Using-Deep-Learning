@@ -20,6 +20,8 @@ Feel free to explore the code, data, and documentation in this repository to gai
 
 Please don't hesitate to reach out if you have any questions or require further information regarding this project.
 
+![image](https://github.com/Muhammad0El-geddawy/Manipulator-Kinematics-Using-Deep-Learning/assets/78290304/7c1d3b8e-d669-4e68-b3c8-0d7593d897fd)
+
 
 ![image](https://github.com/Muhammad0El-geddawy/Manipulator-Kinematics-Using-Deep-Learning/assets/78290304/40293c02-2a57-4b1d-9581-bedc1e88fa01)
 
