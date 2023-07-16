@@ -19,3 +19,8 @@ This repository provides a comprehensive solution for implementing inverse kinem
 Feel free to explore the code, data, and documentation in this repository to gain insights into the implementation and further advancements in the field of inverse kinematics for robotic arms.
 
 Please don't hesitate to reach out if you have any questions or require further information regarding this project.
+
+
+![image](https://github.com/Muhammad0El-geddawy/Manipulator-Kinematics-Using-Deep-Learning/assets/78290304/40293c02-2a57-4b1d-9581-bedc1e88fa01)
+
+
